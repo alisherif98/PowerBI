@@ -18,7 +18,7 @@ This interactive HR Attrition Dashboard was built to analyze employee attrition 
 ##### DAX & Power Query for data transformation
 ### 🔗 View the Dashboard
 👉 [Click here to view the HR Attrition Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDcyNDgxNmYtYWQwYS00NGJjLTg2MjAtY2U5YmExZWU3NWIyIiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Project 2: ⚡ E-Redes Dashboard
 This E-Redes Dashboard provides an interactive visualization of energy consumption trends across different regions, municipalities, and time periods. The dashboard helps in monitoring and analyzing active energy distribution to support data-driven decision-making.
 #### Features:
@@ -31,8 +31,8 @@ This E-Redes Dashboard provides an interactive visualization of energy consumpti
 ##### SQL & Power Query for data transformation.
 ##### DAX for advanced calculations.
 ### 🔗 View the Dashboard
-👉 [Click here to view the HR Attrition Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU5Mjk5NWMtYmNjNC00OTcxLThkNTUtNzc2MzBjMzgxYjI0IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
-
+👉 [Click here to view the E-Redes Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU5Mjk5NWMtYmNjNC00OTcxLThkNTUtNzc2MzBjMzgxYjI0IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Project 3: Financial Overview Dashboard
 
 
