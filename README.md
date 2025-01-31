@@ -22,5 +22,5 @@ This repository contains a collection of Power BI dashboards that demonstrate va
 ### 🔗 View the Project Repository 
 ### 👉 [Click here to view the Project Repository](https://github.com/alisherif98/Pizza-Plus-Dashboard)
 ### 🔗 View the Dashboard 
-### 👉 [Click here to view the E-Redes Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDEyMDZhYWYtMTIwZC00MjI4LTg5YmUtNzZjNDRkZmUzYjc1IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
+### 👉 [Click here to view the Pizza Plus Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDEyMDZhYWYtMTIwZC00MjI4LTg5YmUtNzZjNDRkZmUzYjc1IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
 
