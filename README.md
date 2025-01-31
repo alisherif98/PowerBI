@@ -20,6 +20,7 @@ This interactive HR Attrition Dashboard was built to analyze employee attrition 
 ### 👉 [Click here to view the HR Attrition Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDcyNDgxNmYtYWQwYS00NGJjLTg2MjAtY2U5YmExZWU3NWIyIiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Project 2: ⚡ E-Redes Dashboard
+### 🔗 View the Project Repository 
 ### 👉 [Click here to view the Project Repository](https://github.com/alisherif98/E-Redes_Electric_Dashboard)
 ### 🔗 View the Dashboard 
 ### 👉 [Click here to view the E-Redes Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU5Mjk5NWMtYmNjNC00OTcxLThkNTUtNzc2MzBjMzgxYjI0IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
