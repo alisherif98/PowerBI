@@ -16,8 +16,8 @@ This interactive HR Attrition Dashboard was built to analyze employee attrition 
 ##### Power BI for data visualization
 ##### Excel/SAP Data as the data source
 ##### DAX & Power Query for data transformation
-### 🔗 View the Dashboard
-👉 [Click here to view the HR Attrition Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDcyNDgxNmYtYWQwYS00NGJjLTg2MjAtY2U5YmExZWU3NWIyIiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
+### 🔗 View the Dashboard 
+### 👉 [Click here to view the HR Attrition Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDcyNDgxNmYtYWQwYS00NGJjLTg2MjAtY2U5YmExZWU3NWIyIiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Project 2: ⚡ E-Redes Dashboard
 This E-Redes Dashboard provides an interactive visualization of energy consumption trends across different regions, municipalities, and time periods. The dashboard helps in monitoring and analyzing active energy distribution to support data-driven decision-making.
@@ -30,9 +30,21 @@ This E-Redes Dashboard provides an interactive visualization of energy consumpti
 ##### Power BI for interactive data visualization.
 ##### SQL & Power Query for data transformation.
 ##### DAX for advanced calculations.
-### 🔗 View the Dashboard
-👉 [Click here to view the E-Redes Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU5Mjk5NWMtYmNjNC00OTcxLThkNTUtNzc2MzBjMzgxYjI0IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
+### 🔗 View the Dashboard 
+### 👉 [Click here to view the E-Redes Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU5Mjk5NWMtYmNjNC00OTcxLThkNTUtNzc2MzBjMzgxYjI0IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Project 3: Financial Overview Dashboard
-
+### Project 3: 🍕 Pizza Plus Dashboard
+This Pizza Plus Dashboard provides interactive insights into pizza sales performance, helping businesses track key metrics such as total sales, orders, and best-selling pizzas. The dashboard is designed to assist in data-driven decision-making for optimizing sales and inventory.
+#### Features:
+##### Sales Overview: Displays total sales, orders, and pizzas sold over time.
+##### Performance Analysis: Insights on sales by pizza category and size.
+##### Time-Based Trends: Tracks daily, monthly, and yearly sales patterns.
+##### Top & Bottom Performers: Highlights best and worst-selling pizzas based on revenue and order count.
+##### Interactive Filters: Users can filter data by time, category, and size for detailed analysis.
+#### 🛠 Tools Used:
+##### Power BI for dynamic data visualization.
+##### SQL & Power Query for data processing.
+##### DAX for advanced calculations.
+### 🔗 View the Dashboard 
+### 👉 [Click here to view the E-Redes Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDEyMDZhYWYtMTIwZC00MjI4LTg5YmUtNzZjNDRkZmUzYjc1IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
 
