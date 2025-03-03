@@ -24,3 +24,6 @@ This repository contains a collection of Power BI dashboards that demonstrate va
 ### 🔗 View the Dashboard 
 ### 👉 [Click here to view the Pizza Plus Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDEyMDZhYWYtMTIwZC00MjI4LTg5YmUtNzZjNDRkZmUzYjc1IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
 
+## 📬 Get in Touch
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alisherif98/)
+- 📧 Email: Ali_ElSayed_Sherif@outlook.com
