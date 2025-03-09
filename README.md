@@ -26,4 +26,4 @@ This repository contains a collection of Power BI dashboards that demonstrate va
 
 ## 📬 Get in Touch
 - 🌐 [LinkedIn](https://www.linkedin.com/in/alisherif98/)
-- 📧 Email: Ali_ElSayed_Sherif@outlook.com
+- 📧 Email: alisherif560@gmail.com
